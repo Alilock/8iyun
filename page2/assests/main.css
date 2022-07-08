@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #faf3e4;
+  margin: 0 10%;
+}
+
+.main {
+  /* height: 100vh;
+  width: 100vw; */
+  text-align: center;
+}
+h2 {
+  padding-top: 30px;
+  border-bottom-width: 4px;
+  border-bottom-color: #57b1dc;
+  border-top-style: solid;
+}
